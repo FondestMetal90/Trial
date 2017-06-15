@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="HP.css"?>
+<People>
+	<Person relationship="Girlfriend">
+			<first_name>Liuba</first_name>
+			<last_name>Dvinskikh</last_name>
+			<age>21</age>
+			<country>Sweden/Russia</country>
+	</Person>
+	<Person relationship="Friend">
+			<first_name>Ken</first_name>
+			<last_name>Chong</last_name>
+			<age>21</age>
+			<country>Malaysia</country>
+	</Person>
+	<Person relationship="Mother">
+			<first_name>Mary Ann</first_name>
+			<last_name>Arabe</last_name>
+			<age>49</age>
+			<country>Philippines</country>
+	</Person>
+	<Person relationship="Father">
+			<first_name>Ferdinand</first_name>
+			<last_name>Arabe</last_name>
+			<age>48</age>
+			<country>Philippines</country>
+	</Person>
+</People>

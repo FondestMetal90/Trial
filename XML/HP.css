@@ -1,0 +1,50 @@
+HP{
+}
+
+Person{
+	background-color: #BCCFFF;
+	color: #800000;
+	text-align: left;
+	border: 1px solid #000000;
+	padding: 10pt;
+	display: block;
+	width: 230px;
+	margin: 20px;
+}
+Person[relationship]:before {content: attr(relationship)}
+
+first_name{
+	color:	#800000;
+	font-weight:bold;
+	font-size: 120%;
+	display: block;
+	margin-bottom: 0%;
+}
+first_name:before {content: "First name: "}
+
+last_name{
+	color:	#800000;
+	font-weight:bold;
+	font-size: 120%;
+	display: block;
+	margin-bottom: 0%;
+}
+last_name:before {content: "Last name: "}
+
+age{
+	color:	#800000;
+	font-weight:bold;
+	font-size: 90%;
+	display: block;
+	margin-bottom: 0%;
+}
+age:before {content: "Age: "}
+
+country{
+	color:	#800000;
+	font-weight:bold;
+	font-size: 90%;
+	display: block;
+	margin-bottom: 0%;
+}
+country:before {content: "Country: "}
